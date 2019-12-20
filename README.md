@@ -1,5 +1,8 @@
 # bamboolib - template for creating your own binder notebook
 
+# my binder link
+https://mybinder.org/v2/gh/dannkkie/bamboolib_workspace/master
+
 
 ## How to use this?
 
